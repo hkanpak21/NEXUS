@@ -19,7 +19,7 @@ using namespace phantom::util;
 using namespace nexus;
 
 // Choose test target here:
-int TEST_TARGET_IDX = 4;
+int TEST_TARGET_IDX = 0;
 
 size_t N = 1ULL << 16;
 size_t MM_LOG_N = 13;
